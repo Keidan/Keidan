@@ -4,9 +4,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keidan&show_icons=true&theme=midnight-purple&count_private=true&custom_title=GitHub%20stats)
 
 ## Systems
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![GNU Linux](https://img.shields.io/badge/GNU%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MS Windows](https://img.shields.io/badge/MS%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![FreeRTOS](https://img.shields.io/static/v1?style=for-the-badge&message=FreeRTOS&color=0091BD&logo=Arm&logoColor=FFFFFF&label=)](https://www.freertos.org/)
+[![Gentoo](https://img.shields.io/static/v1?style=for-the-badge&message=Gentoo&color=54487A&logo=Gentoo&logoColor=FFFFFF&label=)](https://www.gentoo.org/)
+[![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)](https://linuxmint.com/)
+[![MS Windows](https://img.shields.io/badge/MS%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 
 ## IDE
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
