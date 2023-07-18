@@ -11,5 +11,6 @@
 [![Ac6 System Workbench](https://img.shields.io/static/v1?style=for-the-badge&message=Ac6%20System%20Workbench&color=0091BD&logo=Eclipse&logoColor=FFFFFF&label=)](https://www.ac6-tools.com/content.php/content_sw4mcu)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![GNU Emacs](https://img.shields.io/badge/GNU%20Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
+[![IAR Systems](https://img.shields.io/static/v1?style=for-the-badge&message=IAR%20Systems&color=FFDD00&logo=arm&logoColor=EE2E24&label=)](https://www.iar.com/)
+[![MS Visual Code](https://img.shields.io/badge/MS%20Visual%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![MS Visual Studio](https://img.shields.io/badge/MS%20Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![IAR Systems](https://img.shields.io/static/v1?style=for-the-badge&message=IAR%20Systems&color=FFDD00&label=)](https://www.iar.com/)
