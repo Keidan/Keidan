@@ -3,9 +3,19 @@
 ## Systems
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![FreeRTOS](https://img.shields.io/static/v1?style=for-the-badge&message=FreeRTOS&color=0091BD&logo=Arm&logoColor=FFFFFF&label=)](https://www.freertos.org/)
+[![Fedora](https://img.shields.io/static/v1?style=for-the-badge&message=Fedora&color=51A2DA&logo=Fedora&logoColor=FFFFFF&label=)](https://fedoraproject.org/fr/workstation)
 [![Gentoo](https://img.shields.io/static/v1?style=for-the-badge&message=Gentoo&color=54487A&logo=Gentoo&logoColor=FFFFFF&label=)](https://www.gentoo.org/)
 [![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)](https://linuxmint.com/)
 [![MS Windows](https://img.shields.io/badge/MS%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+
+## Languages
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 ## IDE
 [![Ac6 System Workbench](https://img.shields.io/static/v1?style=for-the-badge&message=Ac6%20System%20Workbench&color=0091BD&logo=Eclipse&logoColor=FFFFFF&label=)](https://www.ac6-tools.com/content.php/content_sw4mcu)
@@ -14,3 +24,5 @@
 [![IAR Systems](https://img.shields.io/static/v1?style=for-the-badge&message=IAR%20Systems&color=FFDD00&logo=arm&logoColor=EE2E24&label=)](https://www.iar.com/)
 [![MS Visual Code](https://img.shields.io/badge/MS%20Visual%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![MS Visual Studio](https://img.shields.io/badge/MS%20Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)](https://vscodium.com/)
+
